@@ -1,4 +1,4 @@
 [build]
-  base = "OLLIES-TECH-NEXUS-GLOW-MAIN"
-  publish = "public"
-command = "npm --prefix OLLIES-TECH-NEXUS-GLOW-MAIN run build"
+base = "OLLIES-TECH-NEXUS-GLOW-MAIN"
+publish = "public"
+command = "npm run build"

@@ -1,6 +1,7 @@
 [build]
-  publish = "dist"
-  command = "npm run build"
+  base = "OLLIES-TECH-NEXUS-GLOW-MAIN"
+  publish = "OLLIES-TECH-NEXUS-GLOW-MAIN/dist"
+  command="npm run build
 
 [build.environment]
   NODE_VERSION = "24"

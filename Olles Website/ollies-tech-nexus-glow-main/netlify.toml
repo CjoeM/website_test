@@ -1,4 +1,4 @@
 [build]
-base = "OLLIES-TECH-NEXUS-GLOW-MAIN"
-publish = "public"
-command = "npm run build"
+  base = "OLLIES-TECH-NEXUS-GLOW-MAIN"
+  publish = "OLLIES-TECH-NEXUS-GLOW-MAIN/public"
+  command = "npm run build" # Adjust based on your build script
